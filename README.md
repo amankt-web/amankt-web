@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a Data Science Enthusisatic
+I am a Mern Stack developer as well as ML & DL devloper
+I learn the process very fast
+Below are my projects realted to my field
+If you had visted my profile , then look out on my projects
+
 <!--
 **amankt-web/amankt-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
